@@ -1,0 +1,10 @@
+# KiCad Backup- und Cache-Dateien ignorieren
+*.bak
+*.bck
+*.kicad_pcb-bak
+*-cache.lib
+fp-info-cache
+*.net
+*.erc
+*.drc
+_autosave-*
